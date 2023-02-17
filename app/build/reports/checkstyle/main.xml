@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.0">
+<file name="/Users/ivansavvinov/Documents/Hexlet/project-4/java-project-72/app/src/main/java/hexlet/code/App.java">
+<error line="6" column="15" severity="error" message="Unused import - io.javalin.apibuilder.ApiBuilder.path." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="7" column="15" severity="error" message="Unused import - io.javalin.apibuilder.ApiBuilder.get." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="8" column="15" severity="error" message="Unused import - io.javalin.apibuilder.ApiBuilder.post." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+<file name="/Users/ivansavvinov/Documents/Hexlet/project-4/java-project-72/app/src/main/java/hexlet/code/controllers/RootController.java">
+</file>
+</checkstyle>
